@@ -1,2 +1,33 @@
-rghvg
-fvajdfjakv
+body{
+font-style: verdana;
+}
+
+h1 {
+      Color:green;
+      Size:24;
+      Text-align:center;
+}
+
+table {
+    border-collapse: collapse;
+	margin: auto;
+	width:650;
+}
+
+.days {
+border: 2px dotted blue;
+text-align: center;
+}
+
+.forecast{
+border: 2px dotted blue;
+text-align: center;
+}
+
+.blue{
+color:blue;
+}
+
+.red{
+color:red;
+}
